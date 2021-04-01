@@ -1,0 +1,28 @@
+syntax="proto3";
+option java_multiple_files=true;
+package com.example.grpc.server.grpcserver;
+
+
+message AddRequest{
+    repeated int32 a = 1;
+    repeated int32 b = 2;
+}
+
+message AddReply{
+    repeated int32 c = 3;
+}
+
+message MultiplyRequest{
+    repeated int32 a = 1;
+    repeated int32 b = 2;
+}
+
+message MultiplyReply{
+    repeated int32 c = 3;
+}
+
+
+service MatrixService{
+    rpc AddBlock(AddRequest) returns (AddReply){}
+    rpc MultiplyBlock(MultiplyRequest) returns (MultiplyReply);
+}

@@ -1,0 +1,12 @@
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/AddReply.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/AddRequest.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/MatrixServiceOuterClass.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/src/main/java/com/example/grpc/server/grpcserver/GrpcServerApplication.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/MultiplyReplyOrBuilder.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/src/main/java/com/example/grpc/server/grpcserver/MatrixServiceImpl.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/AddRequestOrBuilder.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/AddReplyOrBuilder.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/MultiplyReply.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/MultiplyRequest.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/java/com/example/grpc/server/grpcserver/MultiplyRequestOrBuilder.java
+/mnt/c/Users/Swizzle/downloads/grpcspring/grpc-server/target/generated-sources/protobuf/grpc-java/com/example/grpc/server/grpcserver/MatrixServiceGrpc.java

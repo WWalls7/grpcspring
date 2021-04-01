@@ -1,0 +1,32 @@
+<html xmlns:th="https://www.thymeleaf.org">
+<body>
+
+	<div th:if="${message}">
+		<h2 th:text="${message}"/>
+	</div>
+
+	<div>
+		<form method="POST" enctype="multipart/form-data" action="/">
+			<p>Matrix 1:</p>
+			<input type="file" name="file1" />
+
+			<p>Matrix 1:</p>
+			<input type="file" name="file2" />
+
+			<input type="submit" value="Submit" />
+
+
+			<!-- <table>
+				<tr><td>Matrix 1:</td><td><input type="file" name="file" /></td></tr>
+			</table>
+            <table>
+				<tr><td>Matrix 2:</td><td><input type="file" name="file1" /></td></tr>
+			</table>
+            <table>
+                <tr><td><input type="submit" value="Submit" /></td></tr>
+            </table> -->
+		</form>
+	</div>
+
+</body>
+</html>
